@@ -46,45 +46,27 @@ Aucun state management avancé n’est utilisé.
 ---
 
 ## 📁 Structure du projet
-
+```
 lib/
-
 ├── main.dart
-
 ├── theme/
-
 │ └── app_theme.dart
-
 ├── pages/
-
 │ ├── home_page.dart
-
 │ ├── profile_page.dart
-
 │ ├── settings_page.dart
-
 │ ├── about_page.dart
-
 │ └── chatbot_page.dart
-
 ├── widgets/
-
 │ └── app_drawer.dart
-
 ├── services/
-
 │ └── rag_api.dart
-
 ├── models/
-
 │ └── rag_response.dart
-
 assets/
-
 └── images/
-
 └── plaze.jpg
-
+```
 ---
 
 ## 🚀 Lancement du projet

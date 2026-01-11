@@ -1,5 +1,15 @@
 # Smart Student Assistant 📱🎓
 
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2)
+![Mobile](https://img.shields.io/badge/Platform-Android-green)
+![REST API](https://img.shields.io/badge/API-REST-orange)
+![Retrofit](https://img.shields.io/badge/Retrofit-Dio-purple)
+![Chatbot](https://img.shields.io/badge/Feature-Chatbot-ff69b4)
+![Architecture](https://img.shields.io/badge/Architecture-MVC-lightgrey)
+![Academic](https://img.shields.io/badge/Project-Academic-important)
+
+
 Smart Student Assistant est une application mobile développée avec **Flutter** dans le cadre d’un devoir de synthèse.  
 Elle vise à assister les étudiants dans leur environnement académique à travers une interface simple, claire et professionnelle.
 

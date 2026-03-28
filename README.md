@@ -101,3 +101,11 @@ flutter run
 
 Projet réalisé dans le cadre du module Développement Mobile avec Flutter,
 ayant pour objectif de synthétiser l’ensemble des notions vues en ateliers pratiques.
+
+## Screenshots
+<img width="371" height="794" alt="Screenshot 2026-01-07 161740" src="https://github.com/user-attachments/assets/89f49f14-8c90-4962-9922-38fe7eb83f5d" />
+<img width="358" height="770" alt="Screenshot 2026-01-07 153922" src="https://github.com/user-attachments/assets/7f784550-f39e-4d96-acf5-82e757283359" />
+
+<img width="1854" height="757" alt="Screenshot 2025-12-02 115437" src="https://github.com/user-attachments/assets/dd83e46d-a281-4a3b-86d3-7f854c14c85f" />
+
+
